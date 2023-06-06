@@ -1,4 +1,5 @@
 import React from "react";
+ // eslint-disable-next-line
 import Header from "./Header";
 import Footer from "./Footer";
 function App() {
